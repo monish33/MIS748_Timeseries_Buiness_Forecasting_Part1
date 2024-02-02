@@ -2,7 +2,7 @@ This project aims to provide insights into the Superstore dataset through explor
 
 ## Part I: Data Preparation
 
-# Data Source
+## Data Source
 The Superstore data used in this project is sourced from Kaggle. It includes information related to sales, profits, and other interesting facts of a large Superstore.
 
 # Data Preparation
