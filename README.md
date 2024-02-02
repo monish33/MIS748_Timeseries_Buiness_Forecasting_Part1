@@ -1,6 +1,6 @@
 This project aims to provide insights into the Superstore dataset through exploratory data analysis (EDA) and the development of regression models. The analysis is divided into two parts: Data Preparation (Part I) and Descriptive Analysis (Part II).
 
-## Part I: Data Preparation
+# Part I: Data Preparation
 
 ## Data Source
 The Superstore data used in this project is sourced from Kaggle. It includes information related to sales, profits, and other interesting facts of a large Superstore.
